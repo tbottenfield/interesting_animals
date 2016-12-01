@@ -1,4 +1,4 @@
-.. Interesting Animals documentation master file, created by
+.. Interesting Animals documentation master file, created by Nathan Hawkins, Tyger Bottenfield, and Collin Hemann
    sphinx-quickstart on Thu Dec  1 11:58:26 2016.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -9,14 +9,8 @@ Welcome to Interesting Animals's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   land_animals/land_animals.rst
+   aquatic_animals/aquatic_animals.rst
+   flying_animals/flying_animals.rst
