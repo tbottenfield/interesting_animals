@@ -1,0 +1,1 @@
+Search.setIndex({envversion:50,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{content:0,index:0,modul:0,page:0,search:0},titles:["Welcome to interesting-animals-project&#8217;s documentation!"],titleterms:{anim:0,document:0,indice:0,interest:0,project:0,tabl:0,welcom:0}})
