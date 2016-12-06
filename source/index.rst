@@ -9,8 +9,8 @@ Welcome to Interesting Animals's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 1
-
+   :maxdepth: 2
+   
    land_animals/land_animals.rst
    aquatic_animals/aquatic_animals.rst
    flying_animals/flying_animals.rst
