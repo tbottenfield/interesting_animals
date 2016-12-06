@@ -1,10 +1,9 @@
 .. Interesting Animals documentation master file, created by Nathan Hawkins, Tyger Bottenfield, and Collin Hemann
-   sphinx-quickstart on Thu Dec  1 11:58:26 2016.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Interesting Animals's documentation!
-===============================================
+Interesting Animals
+===================
 
 Contents:
 
