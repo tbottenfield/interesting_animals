@@ -2,9 +2,27 @@ Seagull
 =======
 
 .. image:: seagull.png
-    :width: 500px
-    :align: left
-    :height: 500px
+    :width: 200px
+    :align: right
+    :height: 200px
     :alt: alternate text
+
+**Fun Facts**
+
+* 
+
+=================================================
+
+**Habitat**
+
+
+
+====================================
+
+**Breeding**
+
+ 
+
+======================================
     
     
