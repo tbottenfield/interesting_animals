@@ -4,7 +4,7 @@ Land Animals
 Tufted Deer
 -----------
 
-Here is a link below:
+.. image:: tufted_deer/tufted_deer.png
 
 .. toctree::
    :maxdepth: 1
