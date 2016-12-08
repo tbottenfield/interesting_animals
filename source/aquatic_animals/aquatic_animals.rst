@@ -10,7 +10,7 @@ Flying Fish
    flying_fish/flying_fish.rst
 
 Mimic Octopus
-------------
+-------------
 
 .. toctree::
    :maxdepth: 2
@@ -18,7 +18,7 @@ Mimic Octopus
    mimic_octopus/mimic_octopus.rst
 
 Vampire Squid
---------
+-------------
 
 .. toctree::
    :maxdepth: 2
@@ -26,7 +26,7 @@ Vampire Squid
    vampire_squid/vampire_squid.rst
 
 Narwhal
---------
+-------
 
 .. toctree::
    :maxdepth: 2
