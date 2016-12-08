@@ -14,7 +14,7 @@ Tufted Deer
 Amur Leopard
 ------------
 
-Here is a link below:
+.. image:: armur_leopard/armur_leopard.png
 
 .. toctree::
    :maxdepth: 1
