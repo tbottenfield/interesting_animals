@@ -4,7 +4,6 @@ Flying Animals
 Blue Jay
 -----------
 
-Here is a link below:
 
 .. toctree::
    :maxdepth: 1
@@ -14,7 +13,6 @@ Here is a link below:
 Cardinal
 ------------
 
-Here is a link below:
 
 .. toctree::
    :maxdepth: 1
@@ -24,7 +22,6 @@ Here is a link below:
 Crow
 --------
 
-Here is a link below:
 
 .. toctree::
    :maxdepth: 1
@@ -33,8 +30,6 @@ Here is a link below:
 
 Seagull
 --------
-
-Here is a link below:
 
 .. toctree::
    :maxdepth: 1
