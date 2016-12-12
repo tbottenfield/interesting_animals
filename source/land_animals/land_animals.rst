@@ -24,7 +24,7 @@ Amur Leopard
 Pangolin
 --------
 
-Here is a link below:
+.. image:: pangolin/pangolin.png
 
 .. toctree::
    :maxdepth: 1
