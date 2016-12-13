@@ -34,7 +34,7 @@ Pangolin
 Platypus
 --------
 
-Here is a link below:
+.. image:: platypus/platypus.png
 
 .. toctree::
    :maxdepth: 1
