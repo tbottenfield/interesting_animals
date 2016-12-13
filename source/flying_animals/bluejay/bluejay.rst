@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Blue Jay
 ========
 
@@ -98,5 +97,3 @@ after being born.
 
 `More Blue Jay stuff <http://www.audubon.org/field-guide/bird/blue-jay/>`_
 
-
->>>>>>> 47c1b5c7969873304f5193250d5cb0fee102adc3

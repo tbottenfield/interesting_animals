@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Seagull
 =======
 
@@ -92,5 +91,4 @@ and other harmful factors have threatened some populations.
 
 ======================================
     
->>>>>>> 47c1b5c7969873304f5193250d5cb0fee102adc3
     

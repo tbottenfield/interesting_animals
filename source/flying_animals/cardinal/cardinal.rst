@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Cardinal
 =========
 
@@ -89,6 +88,4 @@ does most of the incubation. There are usually three eggs laid per mating season
 
 ======================================
 
-
->>>>>>> 47c1b5c7969873304f5193250d5cb0fee102adc3
 `More Cardinal Info <http://animals.nationalgeographic.com/animals/birds/cardinal//>`_

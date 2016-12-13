@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Flying Animals
 ============
 
@@ -73,5 +72,4 @@ Herring Gull
 .. toctree::
    :maxdepth: 1
    
->>>>>>> 47c1b5c7969873304f5193250d5cb0fee102adc3
    seagull/seagull.rst

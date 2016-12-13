@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Crow
 ====
 
@@ -108,4 +107,3 @@ Corvus tasmanicus  Forest raven   Tasmania
 
 
 *A more extensive list can be found* `here. <https://en.wikipedia.org/wiki/List_of_Corvus_species>`_
->>>>>>> 47c1b5c7969873304f5193250d5cb0fee102adc3
