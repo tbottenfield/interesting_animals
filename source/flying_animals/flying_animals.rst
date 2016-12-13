@@ -27,8 +27,9 @@ Crow
    :maxdepth: 1
    
    crow/crow.rst
+   
 
-Seagull
+Herring Gull
 --------
 
 .. toctree::

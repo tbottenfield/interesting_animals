@@ -7,22 +7,41 @@ Blue Jay
     :height: 200px
     :alt: alternate text
 
-**Fun Facts**
+**Interesting Facts**
 
-* Type: Bird
-* Color: Brown... I know, my mind was blown too.
-* Diet: Berries, acorns and the occasional milk dud.
-* Weight: Not very heavy
-* Size: Not very big 
+* Type: bird
+* Color: Blue Jays are actually brown. The blue color is caused by light through modified cells on the feather barbs... I know, my mind was blown too.
+* Diet: berries, acorns and the occasional milk dud.
+* Weight: not very heavy
+* Size: not very big 
 * A baseball team
+* Known for their intelligence 
+* Have complex social systems
+* The oldest known wild, banded Blue Jay was over 17 years old
+* Wingspan: 34 - 43 cm
+
+*Other facts can be found* `here. <https://www.allaboutbirds.org/guide/Blue_Jay/lifehistory>`_
+
 =================================================
 
 **Habitat**
 
 Can be found in oak or pine woods. Likes to breed in deciduous
-or mixed woods. Also enjoys well-wooded suburbs or city parks.
+or mixed woods. Blue Jays also enjoy well-wooded suburbs or city parks.
 
 ====================================
+
+**What Do They Eat?**
+
+Blue Jays gobble down insects, nuts, and seeds. They will also feast on
+small vertebrates. Blue Jays like to hold their food with their feet while 
+pecking at them. If they aren't hungry, Blue Jays will store food in catches
+to eat later. 
+
+*Learn more about their diet* `here. <https://www.allaboutbirds.org/guide/Blue_Jay/lifehistory#at_food>`_
+
+==========================================
+
 
 **Breeding**
 
@@ -35,6 +54,6 @@ after being born.
 
 
 
-`Blue Jay Stuff <http://www.audubon.org/field-guide/bird/blue-jay/>`_
+`More Blue Jay stuff <http://www.audubon.org/field-guide/bird/blue-jay/>`_
 
 
