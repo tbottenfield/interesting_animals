@@ -4,6 +4,11 @@ Aquatic Animals
 Flying Fish
 -----------
 
+.. image:: flying_fish/flying_fish.jpg
+   :height: 400px
+   :width: 500px
+   :align: center
+
 .. toctree::
    :maxdepth: 2
 
@@ -11,6 +16,11 @@ Flying Fish
 
 Mimic Octopus
 -------------
+
+.. image:: mimic_octopus/mimic_octopus.jpg
+   :height: 400px
+   :width: 500px
+   :align: center
 
 .. toctree::
    :maxdepth: 2
@@ -20,6 +30,11 @@ Mimic Octopus
 Vampire Squid
 -------------
 
+.. image:: vampire_squid/vampire_squid.jpg
+   :height: 400px
+   :width: 500px
+   :align: center
+
 .. toctree::
    :maxdepth: 2
 
@@ -27,6 +42,11 @@ Vampire Squid
 
 Narwhal
 -------
+
+.. image:: narwhal/narwhal.jpg
+   :height: 400px
+   :width: 500px
+   :align: center
 
 .. toctree::
    :maxdepth: 2
