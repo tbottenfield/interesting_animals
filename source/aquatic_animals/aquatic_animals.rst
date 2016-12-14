@@ -1,6 +1,8 @@
 Aquatic Animals
 ===============
 
+*All "Aquatic Animals" pages were created by Tyger Bottenfield.*
+
 Flying Fish
 -----------
 
