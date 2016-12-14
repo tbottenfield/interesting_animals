@@ -9,12 +9,23 @@ Amur Leopard
 **Fun Facts**
 
 * *Type*: Mammal.
-*Insert table here about size* - https://en.wikipedia.org/wiki/Amur_leopard
-
-*Insert table here about weight* - http://www.altaconservation.org/amur-leopard/amur-leopard-factfile/
-
 * *Color*: Their fur is a pale yellow with black dots.
 * *Diet*: Carnivore. Eats a wide variety of animals, including (but not limited to) deer, wild boar, badgers, and rabbits. 
+
+===============================================================================
+
+**Size**
+
++-------------------------+-----------------+-------------+
+| Amur Leopard Dimensions | Male            | Female      |
+|                         |                 |             |
++=========================+=================+=============+
+| Size (head to hind)     | 107 to 136 cm   | 73 to 112 cm|
++-------------------------+-----------------+-------------+
+| Size (tail length)      | 82 to 90 cm     | 82 to 90 cm |
++-------------------------+-----------------+-------------+
+| Weight                  | 32.2 to 48 kg   | 25 to 43 kg |
++-------------------------+-----------------+-------------+
 
 ===============================================================================
 

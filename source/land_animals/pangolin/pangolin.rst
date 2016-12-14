@@ -9,8 +9,8 @@ Pangolin
 **Fun Facts**
 
 * *Type*: Mammal.
-* *Size*: Full-grown pangolins can grow anywhere between 30 and 100 CM. 
-* *Weight*: Between 3 and 33 KG, depending on the species.
+* *Size*: Full-grown pangolins can grow anywhere between 30 and 100 cm. 
+* *Weight*: Between 3 and 33 kg, depending on the species.
 * *Color*: Tan or dark brown. Usually covered in dirt. 
 * *Diet*: Carnivore. Eats mainly termites, ants, and other insects. One interesting fact about their diet is that they usually stick with a certain species of ant or insect, rarely branching to eat others.
 
@@ -26,13 +26,13 @@ The pangolins use these plates when frightened, as they curl themselves up in a 
 
 **Location**
 
-Pangolins make their homes in Africa, preferring sandy soils and savannas. Try saying that five times fast! They are most located in central and southern Africa regions. 
+Pangolins make their homes in Africa, preferring sandy soils and savannas. Most of them are located in central and southern Africa regions. 
 
 ===============================================================================
 
 **Reproduction**
 
-Pangolins mate usually during the summer and fall, but there isn't a specific mating season for them. There is a gestation period of around 140 days until a single baby pangolin is born. They are born at around 12 ounces and 6 inches in length.
+Pangolins mate usually during the summer and fall, but there isn't a specific mating season for them. There is a gestation period of around 140 days until a single baby pangolin is born. They are born at around 15 cm long.
 
 ===============================================================================
 

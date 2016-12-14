@@ -9,18 +9,18 @@ Platypus
 **Fun Facts**
 
 * *Type*: Mammal.
-* *Size*: Full-grown pangolins can grow anywhere between 30 and 100 CM. 
-* *Weight*: Between 3 and 33 KG, depending on the species.
-* *Color*: Tan or dark brown. Usually covered in dirt. 
-* *Diet*: Carnivore. Eats mainly termites, ants, and other insects. One interesting fact about their diet is that they usually stick with a certain species of ant or insect, rarely branching to eat others.
+* *Size*: Varies between 43 to 50 cm. 
+* *Weight*: Varies by gender, with males being larger. Usually between .7 to 2.4 kg. 
+* *Color*: The fur is tan on their backs, but their undersides are typically a lighter shade, almost white.
+* *Diet*: Carnivore. Feeds on mainly worms, larvae, small aquatic insects, and mollusks. They can consume nearly their entire body weight in a 24-hour period!
 
 ===============================================================================
 
 **Unique Features**
 
-When pangolins are born, the scales on their back are soft and white. However, within a couple of days, the scales grow harder and darker, eventually becoming brown like their parents'. The scales are made of the same material that human nails are made. Imagine having your back covered in plates of fingernails!
+Where do we even begin? The platypus is Darwin's nightmare. With the body of a beaver, nose/bill of a duck, and reproductive system of a bird, the platypus is, quite simply, a goofy animal. Its body is built like a beaver to be productive in water as well as on land, with multiple layers of fur, fat, and muscle. 
 
-The pangolins use these plates when frightened, as they curl themselves up in a ball. These scales are so hard, even lions cannot bite through them. These scales are what makes pangolins extremely valuable. They are the most hunted animal in Africa for this very reason.
+One lesser-known fact about platypuses is that males have two spurs on their back feet that contain a poison. This venom is potent enough to kill small animals, and when a human is stung, it creates a serious amount of pain. Make sure you think twice before picking one of these cuddly fur balls up!
 
 ===============================================================================
 
@@ -32,8 +32,8 @@ Pangolins make their homes in Africa, preferring sandy soils and savannas. Try s
 
 **Reproduction**
 
-Pangolins mate usually during the summer and fall, but there isn't a specific mating season for them. There is a gestation period of around 140 days until a single baby pangolin is born. They are born at around 12 ounces and 6 inches in length.
+Platypuses become sexually active at around 2 years of age. Although the male has no part in caring for the young, the female digs a trench to store the eggs after they are released - usually around 21 days after mating. This trench is blocked with plugs to prevent predators and waters from harming the young. The gestation period outside of the female is between 10 to 14 days. After this, the young hatch and feed from the mother's milk until they reach 3 months old. 
 
 ===============================================================================
 
-For more information on the pangolin, check out this site `here. <http://savepangolins.org/what-is-a-pangolin/>`_ 
+For more information on the platypus, check out this site `here. <http://www.nationalgeographic.com/animals/mammals/p/platypus/>`_ 

@@ -9,8 +9,8 @@ Tufted Deer
 **Fun Facts**
 
 * *Type*: Mammal.
-* *Size*: Full-grown tufted deer vary between 110-160 CM from head to tail. Adults can grow up to 70 CM from their feet to their shoulders.
-* *Weight*: Varies between 17 to 50 KG.
+* *Size*: Full-grown tufted deer vary between 110-160 cm from head to tail. Adults can grow up to 70 cm from their feet to their shoulders.
+* *Weight*: Varies between 17 to 50 kg.
 * *Color*: Brown or gray, usually darker in color.
 * *Diet*: Herbivore. Eats grass, berries, bamboo, and herbs.
 
@@ -18,7 +18,7 @@ Tufted Deer
 
 **Unique Features**
 
-Tufted Deer, as their name suggests, have a "tuft" of fur on their foreheads that stick out from the rest of their body. In addition, both male and female tufted deer have a unique set of canines that protrude from their mouths and over their bottom lips, with the male's canines growing up to 2.5 CM long.
+Tufted Deer, as their name suggests, have a "tuft" of fur on their foreheads that stick out from the rest of their body. In addition, both male and female tufted deer have a unique set of canines that protrude from their mouths and over their bottom lips, with the male's canines growing up to 2.5 cm long.
 
 ===============================================================================
 
