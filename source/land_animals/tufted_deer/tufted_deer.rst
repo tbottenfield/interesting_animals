@@ -13,7 +13,12 @@ Tufted Deer
 * *Weight*: Varies between 17 to 50 KG.
 * *Color*: Brown or gray, usually darker in color.
 * *Diet*: Herbivore. Eats grass, berries, bamboo, and herbs.
-* *Unique Features*: Tufted Deer, as their name suggests, have a "tuft" of fur on their foreheads that stick out from the rest of their body. In addition, both male and female tufted deer have a unique set of canines that protrude from their mouths and over their bottom lips, with the male's canines growing up to 2.5 CM long.
+
+===============================================================================
+
+**Unique Features**
+
+Tufted Deer, as their name suggests, have a "tuft" of fur on their foreheads that stick out from the rest of their body. In addition, both male and female tufted deer have a unique set of canines that protrude from their mouths and over their bottom lips, with the male's canines growing up to 2.5 CM long.
 
 ===============================================================================
 
@@ -29,4 +34,4 @@ While students are worrying about final projects and tests, tufted deer are hold
 
 ===============================================================================
 
-For more information on the tufted deer, check out this site `here. <http://eol.org/pages/308480/details>`_
+For more information on the tufted deer, check out this site `here. <http://eol.org/pages/308480/details>`_ 
