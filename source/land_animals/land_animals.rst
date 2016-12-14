@@ -14,12 +14,12 @@ Tufted Deer
 Amur Leopard
 ------------
 
-.. image:: armur_leopard/armur_leopard.png
+.. image:: amur_leopard/amur_leopard.png
 
 .. toctree::
    :maxdepth: 1
    
-   armur_leopard/armur_leopard.rst
+   amur_leopard/amur_leopard.rst
 
 Pangolin
 --------
