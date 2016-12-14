@@ -5,8 +5,8 @@ Flying Fish
 -----------
 
 .. image:: flying_fish/flying_fish.jpg
-   :height: 400px
-   :width: 500px
+   :height: 750px
+   :width: 1000px
    :align: center
 
 .. toctree::
@@ -18,8 +18,8 @@ Mimic Octopus
 -------------
 
 .. image:: mimic_octopus/mimic_octopus.jpg
-   :height: 400px
-   :width: 500px
+   :height: 750px
+   :width: 1000px
    :align: center
 
 .. toctree::
@@ -31,8 +31,8 @@ Vampire Squid
 -------------
 
 .. image:: vampire_squid/vampire_squid.jpg
-   :height: 400px
-   :width: 500px
+   :height: 750px
+   :width: 1000px
    :align: center
 
 .. toctree::
@@ -44,8 +44,8 @@ Narwhal
 -------
 
 .. image:: narwhal/narwhal.jpg
-   :height: 400px
-   :width: 500px
+   :height: 750px
+   :width: 1000px
    :align: center
 
 .. toctree::
