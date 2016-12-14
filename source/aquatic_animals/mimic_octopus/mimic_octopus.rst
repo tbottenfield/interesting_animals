@@ -13,32 +13,36 @@ Mimic Octopus
 * *Diet*: Hunter/Forager. Eats fish and other smaller prey.
 * *Name Origin*: The "mimic" octopus gets its name from its ability to use camouflage and impersonate other aquatic species.
 * *Defense*: Besides camouflage, this octopus also changes its shape to help impersonate other creatures.
+* *Identification*: The mimic octopus is a relatively new species. It was identified in 1998.
 
 ===========================================================
 
 **Location**
 
-Flying fish are marine fish that are found in all of the oceans. Typically, they're found in tropical and warm subtropical waters. They can be found in the top layer of the ocean that extends downwards from the surface 200 meters.
+The mimic octopus is a type of octopus found mainly in areas of South East Asia. In particular, they range from the Red Sea (west) to New Caledonia (east), and also from Thailand/Philippines (north) to the Great Barrier Reef (south). Most have been found in the waters near Indonesia. The mimic octopus prefers muddy sea floors so it can blend with its natural brown color.
 
 ===========================================================
 
-**An actual flying fish?**
+**Feeding**
 
-Unlike what its name seems to suggest, the flying fish does not actually fly. Instead, it leaps and glides considerable distances above the surface in order to help the fish avoid predators.
-
-===========================================================
-
-**Predators**
-
-A flying fish has many predators. Creatures that these fish are trying to "fly" away from include mackerel, tuna, swordfish, marlin, and many other larger fish. Unfortunately, even while gliding in the air to avoid predators, the flying fish can become victim to birds as well.
+Scientists have observed this octopus stalking smaller fish, catching, and then eating them. More often though, the mimic octopus forages for its food. It glides over sand searching for prey, and it uses its slender tentacles to reach into tighter spaces in coral. In doing this, the octopus can use its suction cups to grab small crustaceans.
 
 ===========================================================
 
-**Cuisine**
+**Mimicry**
 
-Flying fish are caught and eaten in places like Japan, Vietnam, and China. It's a common component of seafood dishes, and is often used to make types of sushi. It's a main source of food in the diet of the Tao people in Taiwan. Flying fish are typically caught while they are gliding by the use of nets.
+Mimicry is a common survival technique found in nature. As an example, flies can have black and yellow stripes to mimic bees. This can discourage potential predators from attacking. In a similar fashion, the mimic octopus uses camouflage and changes in shape to mimic other creatures. In fact, the mimic octopus is the first known species to mimic more than one other species. Some of the more common animals imitated include: the lion fish, sea snakes, flatfish, and jellyfish. By impersonating these creatures, the octopus can oftentimes deter its predators.
+
+=================  ============================================================
+Creature mimicked  Method
+=================  ============================================================
+Lion Fish          Changes color, shapes legs to look like spines.
+Sea Snake          Hides in hole besides two legs in opposite directions.
+Flatfish           Pulls arms together to one side, flattens body.
+Jellyfish          Puffs up head, lets arms trail behind, impersonates motions.
+=================  ============================================================
 
 ===========================================================
 
-For more basic info on the flying fish, try this site `here. <http://www.octopusworlds.com/mimic-octopus/>`_
+For more basic info on the mimic octopus, try this site `here. <http://www.octopusworlds.com/mimic-octopus/>`_
 
