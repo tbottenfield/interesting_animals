@@ -1,6 +1,6 @@
-=======
+============
 Herring Gull
-=======
+============
 
 .. image:: seagull.png
     :width: 200px
