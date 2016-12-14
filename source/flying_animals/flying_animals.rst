@@ -11,7 +11,6 @@ Blue Jay
 
    bluejay/bluejay.rst
 
-
 Cardinal
 ------------
 
@@ -21,16 +20,6 @@ Cardinal
    :maxdepth: 1
    
    cardinal/cardinal.rst
-
-Blue Jay
------------
-
-.. image:: bluejay/bluejay.png
-
-.. toctree::
-   :maxdepth: 1
-
-   bluejay/bluejay.rst
 
    
 Crow
