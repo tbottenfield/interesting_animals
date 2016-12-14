@@ -1,5 +1,9 @@
+.. All land animal pages are Nathan Hawkins'
+
 Land Animals
 ============
+
+*All "Land Animals" pages were made by Nathan Hawkins*
 
 Tufted Deer
 -----------
